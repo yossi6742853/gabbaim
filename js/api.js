@@ -89,6 +89,7 @@ const API = (function() {
     if (!args.synagogue_id) throw new Error('יש לבחור בית כנסת');
     if (!args.date) args.date = new Date().toISOString().substring(0, 10);
     if (!args.channel) args.channel = 'web';
+    if (!args.gabbai_id && window.AUTH) args.gabbai_id = AUTH.actorId();
     if (args.event_id) {
       try { DB.update('events', args.event_id, { status: 'done' }); } catch (e) {}
     }
@@ -393,12 +394,56 @@ const API = (function() {
     });
   }
 
+  // Actions classified as writes — used for audit
+  const WRITE_ACTIONS = {
+    addMember: 1, updateMember: 1, deleteMember: 1,
+    logAliyah: 1, deleteAliyah: 1, updateAliyah: 1,
+    addEvent: 1, updateEvent: 1, deleteEvent: 1,
+    addGabbai: 1, deleteGabbai: 1,
+    addSynagogue: 1, updateSynagogue: 1, deleteSynagogue: 1
+  };
+
   function write(action, args) {
     return read(action, args).then(function(result) {
-      // Fire-and-forget sync — runs in background, doesn't block UI
+      // Audit: record who did what
+      try {
+        if (WRITE_ACTIONS[action] && window.AUTH) {
+          DB.audit({
+            actor: AUTH.actorName() || 'anonymous',
+            actor_id: AUTH.actorId() || '',
+            action: action,
+            entity: _entityFor(action),
+            entity_id: (result && result.id) || (args && args.id) || '',
+            summary: _summary(action, args, result)
+          });
+        }
+      } catch (e) { console.warn('audit dispatch failed', e); }
+      // Fire-and-forget sync
       try { if (window.SYNC) SYNC.scheduleSync(); } catch (e) {}
       return result;
     });
+  }
+
+  function _entityFor(action) {
+    if (action.indexOf('Member') >= 0) return 'members';
+    if (action.indexOf('Aliyah') >= 0) return 'aliyot';
+    if (action.indexOf('Event') >= 0) return 'events';
+    if (action.indexOf('Gabbai') >= 0) return 'gabbais';
+    if (action.indexOf('Synagogue') >= 0) return 'synagogues';
+    return 'unknown';
+  }
+
+  function _summary(action, args, result) {
+    if (action === 'logAliyah') {
+      const m = DB.findById('members', args.member_id) || {};
+      return (args.aliyah_name || '') + ' → ' + (m.first_name || '') + ' ' + (m.last_name || '');
+    }
+    if (action === 'addMember') return (args.first_name || '') + ' ' + (args.last_name || '');
+    if (action === 'addEvent') {
+      const m = DB.findById('members', args.member_id) || {};
+      return (args.type || '') + ' — ' + (m.first_name || '') + ' ' + (m.last_name || '');
+    }
+    return '';
   }
 
   function isOnline() { return true; }

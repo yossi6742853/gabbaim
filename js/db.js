@@ -155,6 +155,22 @@ const DB = (function() {
     _save();
   }
 
+  // Audit trail — append an action entry. Caller decides what to capture.
+  function audit(entry) {
+    try {
+      if (!_data) _data = _load() || {};
+      if (!_data.audit) _data.audit = [];
+      const row = Object.assign({
+        id: 'aud_' + Date.now().toString(36) + Math.random().toString(36).substring(2, 6),
+        ts: new Date().toISOString()
+      }, entry || {});
+      _data.audit.push(row);
+      // Keep only the last 1000 entries to bound the JSON size
+      if (_data.audit.length > 1000) _data.audit = _data.audit.slice(-1000);
+      _save();
+    } catch (e) { console.warn('audit failed', e); }
+  }
+
   function stats() {
     return {
       synagogues: (_data.synagogues || []).length,
@@ -173,6 +189,7 @@ const DB = (function() {
     insert: insert,
     update: update,
     remove: remove,
+    audit: audit,
     getRaw: getRaw,
     setRaw: setRaw,
     exportJSON: exportJSON,

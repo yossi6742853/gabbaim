@@ -41,8 +41,10 @@
       STATE.onChange(function(key) {
         if (key === 'synagogues' || key === 'currentSynagogueId') UI.renderSynSelector();
       });
+      AUTH.onChange(function() { UI.renderUserMenu(); });
 
       UI.renderSynSelector();
+      UI.renderUserMenu();
       SYNC.onStatusChange(_updateSyncBadge);
       _updateSyncBadge(SYNC.getStatus().status, SYNC.getStatus().error);
 

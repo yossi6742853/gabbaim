@@ -245,6 +245,14 @@ mark { background: #fef08a; padding: 0 3px; border-radius: 3px; }
   .stat-card i { display: none; }
 }
 
+/* Login card */
+.login-wrap { min-height: 70vh; }
+.login-card { max-width: 420px; width: 100%; border-radius: 1.25rem; }
+
+/* User dropdown menu */
+#userMenu .btn { font-weight: 600; }
+#userMenu .dropdown-menu { min-width: 200px; }
+
 /* Print friendly */
 @media print {
   .navbar, .btn, footer, #toastContainer { display: none !important; }

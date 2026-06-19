@@ -14,6 +14,7 @@ const PAGE_MEMBERS = (function() {
       '<option value="לוי">לוי</option>' +
       '<option value="ישראל">ישראל</option>' +
       '</select>' +
+      '<a href="#/tribes" class="btn btn-outline-warning"><i class="bi bi-tags"></i> סימון שבטים</a>' +
       '<button class="btn btn-primary" id="addMemBtn"><i class="bi bi-plus-lg"></i> הוסף</button>' +
       '</div></div>' +
       '<div class="card"><div class="card-body p-2"><div id="memList">' + UI.skeleton(300) + '</div></div></div>';

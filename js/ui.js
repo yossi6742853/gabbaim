@@ -110,6 +110,34 @@ const UI = (function() {
     });
   }
 
+  function renderUserMenu() {
+    const wrap = document.getElementById('userMenu');
+    if (!wrap) return;
+    const g = AUTH.currentGabbai();
+    if (!g) {
+      wrap.innerHTML = '<a href="#/login" class="btn btn-outline-light btn-sm"><i class="bi bi-box-arrow-in-left"></i> כניסה</a>';
+      return;
+    }
+    wrap.innerHTML =
+      '<div class="dropdown">' +
+      '<button class="btn btn-sm btn-outline-light dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">' +
+      '<i class="bi bi-person-circle"></i> ' + UTIL.escHtml(g.name) +
+      '</button>' +
+      '<ul class="dropdown-menu dropdown-menu-end">' +
+      '<li><h6 class="dropdown-header">' + UTIL.escHtml(g.name) +
+      ' <small class="text-muted">' + UTIL.escHtml({super_admin:'מנהל על', chief:'גבאי ראשי', secondary:'גבאי משני'}[g.role] || g.role) + '</small></h6></li>' +
+      '<li><a class="dropdown-item" href="#/settings"><i class="bi bi-gear"></i> הגדרות</a></li>' +
+      '<li><hr class="dropdown-divider"></li>' +
+      '<li><a class="dropdown-item text-danger" href="#" id="logoutBtn"><i class="bi bi-box-arrow-right"></i> התנתק</a></li>' +
+      '</ul></div>';
+    document.getElementById('logoutBtn')?.addEventListener('click', function(ev) {
+      ev.preventDefault();
+      AUTH.logout();
+      UI.toast('התנתקת', 'info');
+      window.location.hash = '#/login';
+    });
+  }
+
   function renderSynSelector() {
     const sel = document.getElementById('synSelector');
     const syns = STATE.get('synagogues') || [];
@@ -133,6 +161,7 @@ const UI = (function() {
     errorState: errorState,
     statCard: statCard,
     setActiveNav: setActiveNav,
-    renderSynSelector: renderSynSelector
+    renderSynSelector: renderSynSelector,
+    renderUserMenu: renderUserMenu
   };
 })();

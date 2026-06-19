@@ -1,27 +1,18 @@
-// Hash-based SPA router
-// Routes:
-//   #/                → dashboard
-//   #/live            → live mode (this week's shabbat)
-//   #/live/YYYY-MM-DD → live mode (specific date)
-//   #/members         → members list
-//   #/member/ID       → member card
-//   #/events          → events list
-//   #/reports         → reports
-//   #/settings        → settings
+// Hash-based SPA router with auth guard
 
 const ROUTER = (function() {
+  const PUBLIC_ROUTES = { '/login': true };
   const ROUTES = {
-    '/':           function(p, el) { PAGE_DASHBOARD.render(el); UI.setActiveNav('dashboard'); STATE.set('page', 'dashboard'); },
-    '/live':       function(p, el) { PAGE_LIVE.render(el, p[0]);    UI.setActiveNav('live');      STATE.set('page', 'live'); },
-    '/members':    function(p, el) { PAGE_MEMBERS.render(el);       UI.setActiveNav('members');   STATE.set('page', 'members'); },
-    '/member':     function(p, el) { PAGE_MEMBER_CARD.render(el, p[0]); UI.setActiveNav('members'); STATE.set('page', 'member_card'); },
-    '/events':     function(p, el) { PAGE_EVENTS.render(el);        UI.setActiveNav('events');    STATE.set('page', 'events'); },
-    '/reports':    function(p, el) { PAGE_REPORTS.render(el);       UI.setActiveNav('reports');   STATE.set('page', 'reports'); },
-    '/settings':   function(p, el) { PAGE_SETTINGS.render(el);      UI.setActiveNav('settings');  STATE.set('page', 'settings'); }
+    '/':           function(p, el) { PAGE_DASHBOARD.render(el);                  UI.setActiveNav('dashboard');  STATE.set('page', 'dashboard'); },
+    '/live':       function(p, el) { PAGE_LIVE.render(el, p[0]);                 UI.setActiveNav('live');       STATE.set('page', 'live'); },
+    '/members':    function(p, el) { PAGE_MEMBERS.render(el);                    UI.setActiveNav('members');    STATE.set('page', 'members'); },
+    '/member':     function(p, el) { PAGE_MEMBER_CARD.render(el, p[0]);          UI.setActiveNav('members');    STATE.set('page', 'member_card'); },
+    '/tribes':     function(p, el) { PAGE_TRIBES.render(el);                     UI.setActiveNav('members');    STATE.set('page', 'tribes'); },
+    '/events':     function(p, el) { PAGE_EVENTS.render(el);                     UI.setActiveNav('events');     STATE.set('page', 'events'); },
+    '/reports':    function(p, el) { PAGE_REPORTS.render(el);                    UI.setActiveNav('reports');    STATE.set('page', 'reports'); },
+    '/settings':   function(p, el) { PAGE_SETTINGS.render(el);                   UI.setActiveNav('settings');   STATE.set('page', 'settings'); },
+    '/login':      function(p, el) { PAGE_LOGIN.render(el);                      UI.setActiveNav('');           STATE.set('page', 'login'); }
   };
-
-  let _currentRoute = null;
-  let _currentParams = [];
 
   function parse() {
     const hash = (window.location.hash || '#/').substring(1);
@@ -32,10 +23,17 @@ const ROUTER = (function() {
 
   function render() {
     const parsed = parse();
+    // Auth guard
+    if (!AUTH.isLoggedIn() && !PUBLIC_ROUTES[parsed.route]) {
+      window.location.hash = '#/login';
+      return;
+    }
+    if (AUTH.isLoggedIn() && parsed.route === '/login') {
+      window.location.hash = '#/';
+      return;
+    }
     const handler = ROUTES[parsed.route] || ROUTES['/'];
     const el = document.getElementById('app');
-    _currentRoute = parsed.route;
-    _currentParams = parsed.params;
     try {
       handler(parsed.params, el);
     } catch (e) {
@@ -45,11 +43,7 @@ const ROUTER = (function() {
   }
 
   function refresh() { render(); }
-
-  function navigate(path) {
-    window.location.hash = '#' + path;
-  }
-
+  function navigate(path) { window.location.hash = '#' + path; }
   function init() {
     window.addEventListener('hashchange', render);
     render();
