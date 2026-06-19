@@ -19,7 +19,7 @@ const SYNC = (function() {
   const SYNC_INTERVAL_MS = 30000;
   const POLL_RECENT_WINDOW_MS = 90000;
 
-  const OWNER = 'yossi6742853';
+  const OWNER = 'gabbai-app';
   const REPO = 'gabbaim';
   const DATA_PATH = 'data/db.json';
   const BRANCH = 'main';
