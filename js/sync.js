@@ -124,14 +124,22 @@ const SYNC = (function() {
   function _merge(local, remote) {
     if (!remote) return local;
     if (!local) return remote;
+    // Tombstones: remote can mark IDs to be deleted everywhere
+    const tomb = remote._tombstones || {};
+    function applyTomb(table, arr) {
+      const ids = (tomb[table] || []);
+      if (!ids.length) return arr;
+      return (arr || []).filter(function(r) { return ids.indexOf(r.id) === -1; });
+    }
     const out = {
-      synagogues: _mergeArr(local.synagogues, remote.synagogues),
-      members:    _mergeArr(local.members,    remote.members),
-      gabbais:    _mergeArr(local.gabbais,    remote.gabbais),
-      events:     _mergeArr(local.events,     remote.events),
-      aliyot:     _mergeArr(local.aliyot,     remote.aliyot),
+      synagogues: _mergeArr(applyTomb('synagogues', local.synagogues), applyTomb('synagogues', remote.synagogues)),
+      members:    _mergeArr(applyTomb('members', local.members),       applyTomb('members', remote.members)),
+      gabbais:    _mergeArr(applyTomb('gabbais', local.gabbais),       applyTomb('gabbais', remote.gabbais)),
+      events:     _mergeArr(applyTomb('events', local.events),         applyTomb('events', remote.events)),
+      aliyot:     _mergeArr(applyTomb('aliyot', local.aliyot),         applyTomb('aliyot', remote.aliyot)),
       settings:   Object.assign({}, remote.settings || {}, local.settings || {}),
       audit:      (local.audit || []).concat(remote.audit || []).slice(-500),
+      _tombstones: tomb,  // carry forward
       _meta: {
         version: Math.max((local._meta || {}).version || 0, (remote._meta || {}).version || 0) + 1,
         updated_at: new Date().toISOString()
