@@ -22,7 +22,9 @@
       "status": "active",
       "notes": "רשב\"ם 11",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560222_fqt",
@@ -36,7 +38,9 @@
       "status": "active",
       "notes": "רמב\"ן 16",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560222_aak",
@@ -50,7 +54,9 @@
       "status": "active",
       "notes": "רבנו בחיי 418/4",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560222_rft",
@@ -64,7 +70,9 @@
       "status": "active",
       "notes": "החזקוני 434/2",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560222_gsk",
@@ -78,7 +86,9 @@
       "status": "active",
       "notes": "רש\"י 65",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560222_chm",
@@ -92,7 +102,9 @@
       "status": "active",
       "notes": "רבנו בחיי 423/1",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560222_fkg",
@@ -106,7 +118,9 @@
       "status": "active",
       "notes": "יונתן בן עוזיאל 415/1",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560222_dbf",
@@ -120,7 +134,9 @@
       "status": "active",
       "notes": "אברבנאל 429/08",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560222_ntp",
@@ -134,7 +150,9 @@
       "status": "active",
       "notes": "יונתן בן עוזיאל 424/3",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560222_ppf",
@@ -148,7 +166,9 @@
       "status": "active",
       "notes": "סמטת אונקלוס 2",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560222_ifi",
@@ -162,7 +182,9 @@
       "status": "active",
       "notes": "רד\"ק 430/01",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560222_gcs",
@@ -176,7 +198,9 @@
       "status": "active",
       "notes": "יונתן בן עוזיאל 433/2",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560222_sps",
@@ -190,7 +214,9 @@
       "status": "active",
       "notes": "אבן עזרא 12",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560222_has",
@@ -204,7 +230,9 @@
       "status": "active",
       "notes": "יונתן בן עוזיאל 424/2",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560222_gja",
@@ -218,7 +246,9 @@
       "status": "active",
       "notes": "רבנו בחיי 419/1",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560222_eod",
@@ -232,7 +262,9 @@
       "status": "active",
       "notes": "אברבנאל 429/02",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560222_arx",
@@ -246,7 +278,9 @@
       "status": "active",
       "notes": "יונתן בן עוזיאל 426/2",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560222_poy",
@@ -260,7 +294,9 @@
       "status": "active",
       "notes": "החזקוני 435/6",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560222_esq",
@@ -274,7 +310,9 @@
       "status": "active",
       "notes": "יונתן בן עוזיאל 426/4",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560222_udz",
@@ -288,7 +326,9 @@
       "status": "active",
       "notes": "יונתן בן עוזיאל 414/3",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560222_iui",
@@ -302,7 +342,9 @@
       "status": "active",
       "notes": "אבן עזרא 2א",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560222_vrn",
@@ -316,7 +358,9 @@
       "status": "active",
       "notes": "רש\"י 52",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560222_ate",
@@ -330,7 +374,9 @@
       "status": "active",
       "notes": "אבן עזרא 13",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560222_bti",
@@ -344,7 +390,9 @@
       "status": "active",
       "notes": "רבנו בחיי 416/1",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560222_plq",
@@ -358,7 +406,9 @@
       "status": "active",
       "notes": "רבנו בחיי 420/4",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560222_sdc",
@@ -372,7 +422,9 @@
       "status": "active",
       "notes": "יונתן בן עוזיאל 415/3",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560222_ukq",
@@ -386,7 +438,9 @@
       "status": "active",
       "notes": "החזקוני 434/7",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560222_odw",
@@ -400,7 +454,9 @@
       "status": "active",
       "notes": "רבנו בחיי 422/3",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560222_pwd",
@@ -414,7 +470,9 @@
       "status": "active",
       "notes": "רשב\"ם 2",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560222_fug",
@@ -428,7 +486,9 @@
       "status": "active",
       "notes": "רש\"י 428/2",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560222_tat",
@@ -442,7 +502,9 @@
       "status": "active",
       "notes": "רד\"ק 431/03",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560222_nzi",
@@ -456,7 +518,9 @@
       "status": "active",
       "notes": "יונתן בן עוזיאל 425/1",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560222_qrt",
@@ -470,7 +534,9 @@
       "status": "active",
       "notes": "אבן עזרא 8",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560222_nuu",
@@ -484,7 +550,9 @@
       "status": "active",
       "notes": "גבעת הרוסים 204/1",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560222_zry",
@@ -498,7 +566,9 @@
       "status": "active",
       "notes": "גבעת הרוסים 203/2",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560222_wxj",
@@ -512,7 +582,9 @@
       "status": "active",
       "notes": "החזקוני 434/6",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560222_zvm",
@@ -526,7 +598,9 @@
       "status": "active",
       "notes": "רשב\"ם 3א",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560222_ncs",
@@ -540,7 +614,9 @@
       "status": "active",
       "notes": "יונתן בן עוזיאל 432/5",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560222_fjl",
@@ -554,7 +630,9 @@
       "status": "active",
       "notes": "אברבנאל 429/04",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560222_sug",
@@ -568,7 +646,9 @@
       "status": "active",
       "notes": "רבנו בחיי 419/2",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560222_inf",
@@ -582,7 +662,9 @@
       "status": "active",
       "notes": "רבנו בחיי 423/4",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560222_akt",
@@ -596,7 +678,9 @@
       "status": "active",
       "notes": "החזקוני 435/2",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560222_mbm",
@@ -610,7 +694,9 @@
       "status": "active",
       "notes": "יונתן בן עוזיאל 433/6",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560222_vmn",
@@ -624,7 +710,9 @@
       "status": "active",
       "notes": "יונתן בן עוזיאל 432/3",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560222_arv",
@@ -638,7 +726,9 @@
       "status": "active",
       "notes": "רד\"ק 431/05",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560222_iau",
@@ -652,7 +742,9 @@
       "status": "active",
       "notes": "אבן עזרא 7",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560222_hxu",
@@ -666,7 +758,9 @@
       "status": "active",
       "notes": "רבנו בחיי 417/1",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560222_mfs",
@@ -680,7 +774,9 @@
       "status": "active",
       "notes": "החזקוני 434/3",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560222_npf",
@@ -694,7 +790,9 @@
       "status": "active",
       "notes": "אבן עזרא 11",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560222_irr",
@@ -708,7 +806,9 @@
       "status": "active",
       "notes": "רד\"ק 430/10",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560222_wms",
@@ -722,7 +822,9 @@
       "status": "active",
       "notes": "רבנו בחיי 419/4",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560222_gey",
@@ -736,7 +838,9 @@
       "status": "active",
       "notes": "אבן עזרא 3",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560222_tmb",
@@ -750,7 +854,9 @@
       "status": "active",
       "notes": "החזקוני 434/4",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560222_udo",
@@ -764,7 +870,9 @@
       "status": "active",
       "notes": "רש\"י 428/6",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560222_zsn",
@@ -778,7 +886,9 @@
       "status": "active",
       "notes": "רמב\"ן 8",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560222_bdc",
@@ -792,7 +902,9 @@
       "status": "active",
       "notes": "רשב\"ם 7",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560222_jfb",
@@ -806,7 +918,9 @@
       "status": "active",
       "notes": "החזקוני 434/5",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560222_pgf",
@@ -820,7 +934,9 @@
       "status": "active",
       "notes": "רד\"ק 431/06",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560222_ksm",
@@ -834,7 +950,9 @@
       "status": "active",
       "notes": "רד\"ק 430/09",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560222_vtn",
@@ -848,7 +966,9 @@
       "status": "active",
       "notes": "רש\"י 67",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560222_hwi",
@@ -862,7 +982,9 @@
       "status": "active",
       "notes": "רבנו בחיי 416/3",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560222_pdw",
@@ -876,7 +998,9 @@
       "status": "active",
       "notes": "רשב\"ם 8א",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560222_dye",
@@ -890,7 +1014,9 @@
       "status": "active",
       "notes": "רבנו בחיי 421/2",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560222_wgo",
@@ -904,7 +1030,9 @@
       "status": "active",
       "notes": "החזקוני 435/5",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560222_kjv",
@@ -918,7 +1046,9 @@
       "status": "active",
       "notes": "יונתן בן עוזיאל 414/2",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560222_ktq",
@@ -932,7 +1062,9 @@
       "status": "active",
       "notes": "יונתן בן עוזיאל 413/2",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560222_ngb",
@@ -946,7 +1078,9 @@
       "status": "active",
       "notes": "רד\"ק 430/02",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560222_qlj",
@@ -960,7 +1094,9 @@
       "status": "active",
       "notes": "גבעת הרוסים 203/1",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560222_jke",
@@ -974,7 +1110,9 @@
       "status": "active",
       "notes": "יונתן בן עוזיאל 425/3",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560222_rqn",
@@ -988,7 +1126,9 @@
       "status": "active",
       "notes": "החזקוני 434/8",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560222_xyv",
@@ -1002,7 +1142,9 @@
       "status": "active",
       "notes": "אבן עזרא 9",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560222_ver",
@@ -1016,7 +1158,9 @@
       "status": "active",
       "notes": "רבנו בחיי 421/3",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560223_ugm",
@@ -1030,7 +1174,9 @@
       "status": "active",
       "notes": "רמב\"ן 7",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560223_sra",
@@ -1044,7 +1190,9 @@
       "status": "active",
       "notes": "רמב\"ן 14",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560223_dof",
@@ -1058,7 +1206,9 @@
       "status": "active",
       "notes": "רמב\"ן 4",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560223_uhq",
@@ -1072,7 +1222,9 @@
       "status": "active",
       "notes": "רד\"ק 431/02",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560223_byu",
@@ -1086,7 +1238,9 @@
       "status": "active",
       "notes": "רבנו בחיי 416/2",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560223_unj",
@@ -1100,7 +1254,9 @@
       "status": "active",
       "notes": "רבנו בחיי 423/3",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560223_ohn",
@@ -1114,7 +1270,9 @@
       "status": "active",
       "notes": "רד\"ק 430/06",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560223_ocd",
@@ -1128,7 +1286,9 @@
       "status": "active",
       "notes": "רש\"י 49",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560223_hqp",
@@ -1142,7 +1302,9 @@
       "status": "active",
       "notes": "רשב\"ם 8",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560223_puu",
@@ -1156,7 +1318,9 @@
       "status": "active",
       "notes": "אברבנאל 429/06",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560223_gqq",
@@ -1170,7 +1334,9 @@
       "status": "active",
       "notes": "רבנו בחיי 423/2",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560223_idj",
@@ -1184,7 +1350,9 @@
       "status": "active",
       "notes": "רבנו בחיי 417/3",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560223_ozf",
@@ -1198,7 +1366,9 @@
       "status": "active",
       "notes": "יונתן בן עוזיאל 413/1",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560223_eld",
@@ -1212,7 +1382,9 @@
       "status": "active",
       "notes": "יונתן בן עוזיאל 415/4",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560223_css",
@@ -1226,7 +1398,9 @@
       "status": "active",
       "notes": "אברבנאל 429/01",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560223_odj",
@@ -1240,7 +1414,9 @@
       "status": "active",
       "notes": "רבנו בחיי 421/1",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560223_ryr",
@@ -1254,7 +1430,9 @@
       "status": "active",
       "notes": "רמב\"ן 6",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560223_jid",
@@ -1268,7 +1446,9 @@
       "status": "active",
       "notes": "רש\"י 47",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560223_fqj",
@@ -1282,7 +1462,9 @@
       "status": "active",
       "notes": "רש\"י 51",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560223_sot",
@@ -1296,7 +1478,9 @@
       "status": "active",
       "notes": "רמב\"ן 15",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560223_dtu",
@@ -1310,7 +1494,9 @@
       "status": "active",
       "notes": "רש\"י 428/8",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560223_rnq",
@@ -1324,7 +1510,9 @@
       "status": "active",
       "notes": "החזקוני 435/3",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560223_phy",
@@ -1338,7 +1526,9 @@
       "status": "active",
       "notes": "רד\"ק 430/07",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560223_ysn",
@@ -1352,7 +1542,9 @@
       "status": "active",
       "notes": "רשב\"ם 2א",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560223_eva",
@@ -1366,7 +1558,9 @@
       "status": "active",
       "notes": "רבנו בחיי 417/2",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560223_xwk",
@@ -1380,7 +1574,9 @@
       "status": "active",
       "notes": "רמב\"ן 2",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560223_ntc",
@@ -1394,7 +1590,9 @@
       "status": "active",
       "notes": "אבן עזרא 4",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560223_hjo",
@@ -1408,7 +1606,9 @@
       "status": "active",
       "notes": "רד\"ק 431/01",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560223_zdl",
@@ -1422,7 +1622,9 @@
       "status": "active",
       "notes": "רשב\"ם 6",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560223_gll",
@@ -1436,7 +1638,9 @@
       "status": "active",
       "notes": "רמב\"ן 18",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560223_ljp",
@@ -1450,7 +1654,9 @@
       "status": "active",
       "notes": "יונתן בן עוזיאל 426/3",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560223_zjc",
@@ -1464,7 +1670,9 @@
       "status": "active",
       "notes": "רשב\"ם 10",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560223_ere",
@@ -1478,7 +1686,9 @@
       "status": "active",
       "notes": "רמב\"ן 1",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560223_tsx",
@@ -1492,7 +1702,9 @@
       "status": "active",
       "notes": "רמב\"ן 11",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560223_kzf",
@@ -1506,7 +1718,9 @@
       "status": "active",
       "notes": "יונתן בן עוזיאל 413/4",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560223_avq",
@@ -1520,7 +1734,9 @@
       "status": "active",
       "notes": "רמב\"ן 3",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560223_ttg",
@@ -1534,7 +1750,9 @@
       "status": "active",
       "notes": "רש\"י 66",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560223_xpf",
@@ -1548,7 +1766,9 @@
       "status": "active",
       "notes": "רמב\"ן 12",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560223_rxn",
@@ -1562,7 +1782,9 @@
       "status": "active",
       "notes": "רש\"י 427/4",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560223_dwn",
@@ -1576,7 +1798,9 @@
       "status": "active",
       "notes": "רש\"י 46",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560223_qjk",
@@ -1590,7 +1814,9 @@
       "status": "active",
       "notes": "אברבנאל 429/11",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560223_pxl",
@@ -1604,7 +1830,9 @@
       "status": "active",
       "notes": "יונתן בן עוזיאל 414/4",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560223_noa",
@@ -1618,7 +1846,9 @@
       "status": "active",
       "notes": "אברבנאל 429/09",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560223_shg",
@@ -1632,7 +1862,9 @@
       "status": "active",
       "notes": "רש\"י 427/1",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560223_xre",
@@ -1646,7 +1878,9 @@
       "status": "active",
       "notes": "רש\"י 427/1א",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560223_omy",
@@ -1660,7 +1894,9 @@
       "status": "active",
       "notes": "רבנו בחיי 418/1",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560223_rea",
@@ -1674,7 +1910,9 @@
       "status": "active",
       "notes": "יונתן בן עוזיאל 432/6",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560223_fln",
@@ -1688,7 +1926,9 @@
       "status": "active",
       "notes": "רשב\"ם 3",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560223_sst",
@@ -1702,7 +1942,9 @@
       "status": "active",
       "notes": "יונתן בן עוזיאל 415/2",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560223_xvs",
@@ -1716,7 +1958,9 @@
       "status": "active",
       "notes": "רש\"י 53",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560223_mgz",
@@ -1730,7 +1974,9 @@
       "status": "active",
       "notes": "יונתן בן עוזיאל 425/4",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560223_uzi",
@@ -1744,7 +1990,9 @@
       "status": "active",
       "notes": "יונתן בן עוזיאל 424/4",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560223_khe",
@@ -1758,7 +2006,9 @@
       "status": "active",
       "notes": "רבנו בחיי 420/3",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560223_ppv",
@@ -1772,7 +2022,9 @@
       "status": "active",
       "notes": "יונתן בן עוזיאל 426/1",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560223_gku",
@@ -1786,7 +2038,9 @@
       "status": "active",
       "notes": "יונתן בן עוזיאל 414/1",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560223_mil",
@@ -1800,7 +2054,9 @@
       "status": "active",
       "notes": "אבן עזרא 17",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560223_jtx",
@@ -1814,7 +2070,9 @@
       "status": "active",
       "notes": "רד\"ק 431/04",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560223_pog",
@@ -1828,7 +2086,9 @@
       "status": "active",
       "notes": "",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560223_bst",
@@ -1842,7 +2102,9 @@
       "status": "active",
       "notes": "אברבנאל 429/10",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560223_wse",
@@ -1856,7 +2118,9 @@
       "status": "active",
       "notes": "יונתן בן עוזיאל 433/3",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560223_rir",
@@ -1870,7 +2134,9 @@
       "status": "active",
       "notes": "רש\"י 428/1",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560223_sqm",
@@ -1884,7 +2150,9 @@
       "status": "active",
       "notes": "החזקוני 434/1",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560223_rtv",
@@ -1898,7 +2166,9 @@
       "status": "active",
       "notes": "רשב\"ם 9",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560223_hjg",
@@ -1912,7 +2182,9 @@
       "status": "active",
       "notes": "רמב\"ן 13",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560223_amy",
@@ -1926,7 +2198,9 @@
       "status": "active",
       "notes": "יונתן בן עוזיאל 433/5",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560223_skw",
@@ -1940,7 +2214,9 @@
       "status": "active",
       "notes": "אבן עזרא 6",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560223_itu",
@@ -1954,7 +2230,9 @@
       "status": "active",
       "notes": "אבן עזרא 2ב",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560223_ixi",
@@ -1968,7 +2246,9 @@
       "status": "active",
       "notes": "אברבנאל 429/05",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560223_dos",
@@ -1982,7 +2262,9 @@
       "status": "active",
       "notes": "רד\"ק 430/08",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560223_vmc",
@@ -1996,7 +2278,9 @@
       "status": "active",
       "notes": "אברבנאל 429/07",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560223_qlo",
@@ -2010,7 +2294,9 @@
       "status": "active",
       "notes": "יונתן בן עוזיאל 432/2",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560223_lma",
@@ -2024,7 +2310,9 @@
       "status": "active",
       "notes": "אברבנאל 429/03",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560223_kjk",
@@ -2038,7 +2326,9 @@
       "status": "active",
       "notes": "אבן עזרא 10",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560223_orv",
@@ -2052,7 +2342,9 @@
       "status": "active",
       "notes": "רשב\"ם 1",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560223_tjk",
@@ -2066,7 +2358,9 @@
       "status": "active",
       "notes": "יונתן בן עוזיאל 424/1",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560223_ljb",
@@ -2080,7 +2374,9 @@
       "status": "active",
       "notes": "סמטת אונקלוס 4",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560223_ujk",
@@ -2094,7 +2390,9 @@
       "status": "active",
       "notes": "רד\"ק 431/08",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560223_mpv",
@@ -2108,7 +2406,9 @@
       "status": "active",
       "notes": "רשב\"ם 12",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560223_cuo",
@@ -2122,7 +2422,9 @@
       "status": "active",
       "notes": "יונתן בן עוזיאל 433/1",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560223_lgp",
@@ -2136,7 +2438,9 @@
       "status": "active",
       "notes": "רד\"ק 430/03",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560223_cbx",
@@ -2150,7 +2454,9 @@
       "status": "active",
       "notes": "רש\"י 427/3",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560223_lqj",
@@ -2164,7 +2470,9 @@
       "status": "active",
       "notes": "רבנו בחיי 418/2",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560223_ioz",
@@ -2178,7 +2486,9 @@
       "status": "active",
       "notes": "רבנו בחיי 420/2",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560223_ili",
@@ -2192,7 +2502,9 @@
       "status": "active",
       "notes": "רש\"י 428/4",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560223_svo",
@@ -2206,7 +2518,9 @@
       "status": "active",
       "notes": "רבנו בחיי 419/3",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560223_wom",
@@ -2220,7 +2534,9 @@
       "status": "active",
       "notes": "גבעת הרוסים 204/2",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560223_whi",
@@ -2234,7 +2550,9 @@
       "status": "active",
       "notes": "יונתן בן עוזיאל 432/1",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560223_uhb",
@@ -2248,7 +2566,9 @@
       "status": "active",
       "notes": "החזקוני 435/1",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560223_wte",
@@ -2262,7 +2582,9 @@
       "status": "active",
       "notes": "רש\"י 428/3",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560223_jba",
@@ -2276,7 +2598,9 @@
       "status": "active",
       "notes": "רבנו בחיי 420/1",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560224_ygw",
@@ -2290,7 +2614,9 @@
       "status": "active",
       "notes": "רשב\"ם 4",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560224_lff",
@@ -2304,7 +2630,9 @@
       "status": "active",
       "notes": "יונתן בן עוזיאל 425/2",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560224_kfo",
@@ -2318,7 +2646,9 @@
       "status": "active",
       "notes": "רש\"י 428/5",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560224_dyd",
@@ -2332,7 +2662,9 @@
       "status": "active",
       "notes": "רד\"ק 431/07",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560224_hxn",
@@ -2346,7 +2678,9 @@
       "status": "active",
       "notes": "סמטת אונקלוס 6",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560224_uim",
@@ -2360,7 +2694,9 @@
       "status": "active",
       "notes": "רבנו בחיי 422/1",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560224_pqe",
@@ -2374,7 +2710,9 @@
       "status": "active",
       "notes": "יונתן בן עוזיאל 413/3",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560224_luq",
@@ -2388,7 +2726,9 @@
       "status": "active",
       "notes": "רמב\"ן 5",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560224_mwt",
@@ -2402,7 +2742,9 @@
       "status": "active",
       "notes": "",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560224_zml",
@@ -2416,7 +2758,9 @@
       "status": "active",
       "notes": "053-2785415",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560224_luy",
@@ -2430,7 +2774,9 @@
       "status": "active",
       "notes": "רש\"י 427/2",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
     },
     {
       "id": "mem_846560224_uyw",
@@ -2444,7 +2790,23 @@
       "status": "active",
       "notes": "רבנו בחיי 421/4",
       "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
+      "updated_at": "2026-06-19T00:00:00.000Z",
+      "last_aliyah_date": "מעולם לא",
+      "_lastDate": "0000-00-00"
+    },
+    {
+      "first_name": "יעקב ",
+      "last_name": "רובין",
+      "father_name": "",
+      "tribe": "ישראל",
+      "phone": "",
+      "primary_synagogue_id": "sg1",
+      "notes": "",
+      "status": "active",
+      "id": "mem_mqyrewgk0yax",
+      "created_at": "2026-06-29T05:10:45.716Z",
+      "updated_at": "2026-06-29T05:10:45.716Z",
+      "_lastDate": "2026-06-29"
     }
   ],
   "gabbais": [
@@ -2458,10 +2820,191 @@
       "status": "active",
       "created_at": "2026-06-19T00:00:00.000Z",
       "updated_at": 1782726642588
+    },
+    {
+      "status": "active",
+      "name": "זאבי לוינשטיין",
+      "phone": "",
+      "synagogue_id": "sg2",
+      "role": "super_admin",
+      "password_hash": "sha256:46e9cf842340f5deadf10b48a922bd05723634fd1542b78bd8f2de0e98d44068",
+      "pin_code": "",
+      "id": "gab_mqyrh8a3ujyl",
+      "created_at": "2026-06-29T05:12:34.347Z"
     }
   ],
   "events": [],
-  "aliyot": [],
+  "aliyot": [
+    {
+      "member_id": "mem_mqyrewgk0yax",
+      "synagogue_id": "sg1",
+      "aliyah_name": "הגבהה",
+      "aliyah_order": 0,
+      "date": "2026-06-29",
+      "channel": "web",
+      "reason": "כיבוד",
+      "id": "ali_mqyrfa0fpnkr",
+      "created_at": "2026-06-29T05:11:03.279Z",
+      "_member": {
+        "first_name": "יעקב ",
+        "last_name": "רובין",
+        "father_name": "",
+        "tribe": "ישראל",
+        "phone": "",
+        "primary_synagogue_id": "sg1",
+        "notes": "",
+        "status": "active",
+        "id": "mem_mqyrewgk0yax",
+        "created_at": "2026-06-29T05:10:45.716Z",
+        "updated_at": "2026-06-29T05:10:45.716Z",
+        "_lastDate": "2026-06-29"
+      }
+    },
+    {
+      "member_id": "mem_846560223_ocd",
+      "synagogue_id": "sg1",
+      "aliyah_name": "גלילה",
+      "aliyah_order": 0,
+      "date": "2026-06-29",
+      "channel": "web",
+      "reason": "כיבוד",
+      "id": "ali_mqyrfn8gf2ce",
+      "created_at": "2026-06-29T05:11:20.416Z",
+      "_member": {
+        "id": "mem_846560223_ocd",
+        "first_name": "דוד",
+        "last_name": "כהן",
+        "tribe": "ישראל",
+        "father_name": "",
+        "phone": "050-4129752",
+        "primary_synagogue_id": "sg1",
+        "also_synagogue_ids": "",
+        "status": "active",
+        "notes": "רש\"י 49",
+        "created_at": "2026-06-19T00:00:00.000Z",
+        "updated_at": "2026-06-19T00:00:00.000Z",
+        "last_aliyah_date": "מעולם לא",
+        "_lastDate": "0000-00-00"
+      }
+    },
+    {
+      "member_id": "mem_mqyrewgk0yax",
+      "synagogue_id": "sg2",
+      "aliyah_name": "הגבהה",
+      "aliyah_order": 0,
+      "date": "2026-06-29",
+      "channel": "web",
+      "reason": "כיבוד",
+      "id": "ali_mqyrv7z21mep",
+      "created_at": "2026-06-29T05:23:27.134Z",
+      "_member": {
+        "first_name": "יעקב ",
+        "last_name": "רובין",
+        "father_name": "",
+        "tribe": "ישראל",
+        "phone": "",
+        "primary_synagogue_id": "sg1",
+        "notes": "",
+        "status": "active",
+        "id": "mem_mqyrewgk0yax",
+        "created_at": "2026-06-29T05:10:45.716Z",
+        "updated_at": "2026-06-29T05:10:45.716Z",
+        "_lastDate": "2026-06-29"
+      }
+    },
+    {
+      "member_id": "mem_846560222_bdc",
+      "synagogue_id": "sg2",
+      "aliyah_name": "שלישי",
+      "aliyah_order": 0,
+      "date": "2026-06-29",
+      "channel": "web",
+      "reason": "רוטציה",
+      "id": "ali_mqyrwnr4omk6",
+      "created_at": "2026-06-29T05:24:34.240Z",
+      "_member": {
+        "id": "mem_846560222_bdc",
+        "first_name": "יוסף חיים",
+        "last_name": "וינברג",
+        "tribe": "ישראל",
+        "father_name": "",
+        "phone": "054-8528730",
+        "primary_synagogue_id": "sg1",
+        "also_synagogue_ids": "",
+        "status": "active",
+        "notes": "רשב\"ם 7",
+        "created_at": "2026-06-19T00:00:00.000Z",
+        "updated_at": "2026-06-19T00:00:00.000Z",
+        "last_aliyah_date": "מעולם לא",
+        "_lastDate": "0000-00-00"
+      }
+    },
+    {
+      "member_id": "mem_846560222_qrt",
+      "synagogue_id": "sg2",
+      "aliyah_name": "לוי",
+      "aliyah_order": 0,
+      "date": "2026-06-29",
+      "channel": "web",
+      "reason": "רוטציה",
+      "id": "ali_mqysa927usue",
+      "created_at": "2026-06-29T05:35:08.383Z",
+      "_member": {
+        "id": "mem_846560222_qrt",
+        "first_name": "ישראל",
+        "last_name": "גורביץ",
+        "tribe": "ישראל",
+        "father_name": "",
+        "phone": "053-3180655",
+        "primary_synagogue_id": "sg1",
+        "also_synagogue_ids": "",
+        "status": "active",
+        "notes": "אבן עזרא 8",
+        "created_at": "2026-06-19T00:00:00.000Z",
+        "updated_at": "2026-06-19T00:00:00.000Z",
+        "last_aliyah_date": "מעולם לא",
+        "_lastDate": "0000-00-00"
+      }
+    },
+    {
+      "member_id": "mem_846560222_poy",
+      "synagogue_id": "sg2",
+      "aliyah_name": "כהן",
+      "aliyah_order": 0,
+      "date": "2026-06-29",
+      "channel": "web",
+      "reason": "רוטציה",
+      "id": "ali_mqysagkaevos",
+      "created_at": "2026-06-29T05:35:18.106Z",
+      "_member": {
+        "id": "mem_846560222_poy",
+        "first_name": "שלמה",
+        "last_name": "בלאק",
+        "tribe": "ישראל",
+        "father_name": "",
+        "phone": "054-8435126",
+        "primary_synagogue_id": "sg1",
+        "also_synagogue_ids": "",
+        "status": "active",
+        "notes": "החזקוני 435/6",
+        "created_at": "2026-06-19T00:00:00.000Z",
+        "updated_at": "2026-06-19T00:00:00.000Z",
+        "last_aliyah_date": "מעולם לא",
+        "_lastDate": "0000-00-00"
+      }
+    },
+    {
+      "member_id": "mem_846560223_puu",
+      "synagogue_id": "sg2",
+      "aliyah_name": "גלילה",
+      "aliyah_order": 0,
+      "date": "2026-06-29",
+      "channel": "web",
+      "reason": "כיבוד",
+      "id": "ali_mqysaq85rjtw",
+      "created_at": "2026-06-29T05:35:30.629Z"
+    }
+  ],
   "settings": {
     "default_synagogue": "sg1",
     "app_version": "1.0",
@@ -2476,7 +3019,7 @@
     ]
   },
   "_meta": {
-    "version": 8,
-    "updated_at": "2026-06-29T10:46:24.100Z"
+    "version": 20,
+    "updated_at": "2026-06-29T17:49:15.162Z"
   }
 }
