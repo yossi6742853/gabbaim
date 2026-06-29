@@ -32,6 +32,19 @@ const KAVODOT = (function() {
     _ali('מפטיר',  'ישראל')
   ];
 
+  // Mincha (Shabbat afternoon) kavodot
+  const MINCHA_SHABBAT = [
+    _open('פתיחת ארון — מנחה'),
+    _open('הוצאת ספר תורה — מנחה'),
+    _ali('כהן (מנחה)', 'כהן'),
+    _ali('לוי (מנחה)', 'לוי'),
+    _ali('שלישי (מנחה)', 'ישראל'),
+    _lift('הגבהה (מנחה)'),
+    _wrap('גלילה (מנחה)'),
+    _close('הכנסת ספר תורה — מנחה'),
+    _spc('חזן מנחה')
+  ];
+
   const SHABBAT = [
     _open('פתיחה לפסוקי דזמרא', 'אופציונלי — אצל חלק'),
     _spc('אנעים זמירות'),
@@ -44,7 +57,7 @@ const KAVODOT = (function() {
     _close('הכנסת ספר תורה'),
     _open('פתיחת ארון — מוסף'),
     _spc('חזן מוסף')
-  ]);
+  ]).concat(MINCHA_SHABBAT);
 
   const SHABBAT_2_TORAHS = [
     _open('פתיחת ארון — הוצאה'),
@@ -58,7 +71,7 @@ const KAVODOT = (function() {
     _read('הפטרה'),
     _close('הכנסת ספרי תורה'),
     _spc('חזן מוסף')
-  ]);
+  ]).concat(MINCHA_SHABBAT);
 
   const WEEKDAY = [
     _open('פתיחת ארון'),
@@ -82,6 +95,20 @@ const KAVODOT = (function() {
     _wrap('גלילה'),
     _close('הכנסת ספר תורה'),
     _spc('חזן מוסף')
+  ];
+
+  // Fast day - Mincha (afternoon prayer with Torah reading + haftarah)
+  const FAST_MINCHA = [
+    _open('פתיחת ארון — מנחה'),
+    _open('הוצאת ספר תורה — מנחה'),
+    _ali('כהן (מנחה)', 'כהן'),
+    _ali('לוי (מנחה)', 'לוי'),
+    _ali('מפטיר (מנחה)', 'ישראל'),
+    _lift('הגבהה (מנחה)'),
+    _wrap('גלילה (מנחה)'),
+    _read('הפטרה (מנחה)'),
+    _close('הכנסת ספר תורה — מנחה'),
+    _spc('חזן מנחה')
   ];
 
   const CHOL_HAMOED = [
@@ -117,9 +144,8 @@ const KAVODOT = (function() {
     _ali('שלישי', 'ישראל'),
     _lift('הגבהה'),
     _wrap('גלילה'),
-    _read('הפטרה (במנחה)'),
     _close('הכנסת ספר תורה')
-  ];
+  ].concat(FAST_MINCHA);
 
   const PURIM = [
     _open('פתיחת ארון'),
@@ -150,7 +176,8 @@ const KAVODOT = (function() {
     _wrap('גלילה שנייה'),
     _read('הפטרה'),
     _close('הכנסת ספרי תורה'),
-    _spc('חזן מוסף')
+    _spc('חזן מוסף'),
+    _spc('חזן מנחה')
   ];
 
   const YOM_KIPPUR = [
