@@ -222,15 +222,15 @@
     },
     {
       "id": "mem_846560222_eod",
-      "first_name": "משה",
-      "last_name": "ארנטרוי",
+      "first_name": "שלמה זלמן",
+      "last_name": "זייר",
       "tribe": "ישראל",
       "father_name": "",
-      "phone": "054-8523955",
+      "phone": "054-8416779",
       "primary_synagogue_id": "sg1",
       "also_synagogue_ids": "",
       "status": "active",
-      "notes": "רד\"ק 430/05",
+      "notes": "אברבנאל 429/02",
       "created_at": "2026-06-19T00:00:00.000Z",
       "updated_at": "2026-06-19T00:00:00.000Z"
     },
@@ -889,20 +889,6 @@
       "also_synagogue_ids": "",
       "status": "active",
       "notes": "רבנו בחיי 421/2",
-      "created_at": "2026-06-19T00:00:00.000Z",
-      "updated_at": "2026-06-19T00:00:00.000Z"
-    },
-    {
-      "id": "mem_846560222_eod",
-      "first_name": "שלמה זלמן",
-      "last_name": "זייר",
-      "tribe": "ישראל",
-      "father_name": "",
-      "phone": "054-8416779",
-      "primary_synagogue_id": "sg1",
-      "also_synagogue_ids": "",
-      "status": "active",
-      "notes": "אברבנאל 429/02",
       "created_at": "2026-06-19T00:00:00.000Z",
       "updated_at": "2026-06-19T00:00:00.000Z"
     },
@@ -2483,21 +2469,14 @@
     "updated_at": 1782726642588
   },
   "audit": [],
-  "_meta": {
-    "version": 2,
-    "updated_at": "2026-06-19T00:00:00.000Z",
-    "source": "maale-amos/phones.json"
-  },
-  "_version": 1782726642588,
-  "_updated_at": 1782726642588,
   "_tombstones": {
     "synagogues": [
       "sg1",
       "sg2"
     ]
   },
-  "_sync_test": {
-    "ts": 1782729641,
-    "note": "sync debug check"
+  "_meta": {
+    "version": 7,
+    "updated_at": "2026-06-29T10:45:28.625Z"
   }
 }
